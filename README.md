@@ -1,5 +1,7 @@
 # Membership Inference Attacks with False Discovery Rate Control
 
+![Overview of our proposed membership inference attacks with the false discovery rate guarantee](images/mia_overview.png)
+
 ## Install
 
 Install the dependencies in a Conda environment:
